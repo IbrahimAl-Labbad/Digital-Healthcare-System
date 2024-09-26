@@ -24,6 +24,17 @@ The **Digital Healthcare System** is designed to predict multiple diseases such 
 - Developed with **Streamlit** to provide an intuitive and interactive interface.
 - Supports both disease prediction and chatbot interaction.
 
+## The web app:
+
+![Web App](https://github.com/user-attachments/assets/c341c364-cd4d-48ae-b68e-639fa70b4fce)
+
+
+
+## Chat with the bot: 
+
+![Chatbot Interaction](https://github.com/user-attachments/assets/fd967eb0-3199-4f4a-a88a-cf69b8aeff3c)
+
+
 ## Tech Stack
 
 - **Backend**: Python (scikit-learn, XGBoost, Hugging Face Transformers)
