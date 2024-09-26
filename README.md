@@ -80,4 +80,8 @@ streamlit run app.py
 ## License
 - This project is licensed under the MIT License. See the LICENSE file for more details.
 
+## Contact
+- For any questions or further information, please contact:
+## Email: ibrahimallabbad9@gmail.com
+
 
